@@ -5,7 +5,7 @@
 
 Escáner de superficie de ataque para detección automatizada de archivos de entorno, copias de seguridad, repositorios git y credenciales expuestas.
 
-Desarrollado y mantenido por la division de ciberseguridad ofensiva de **TAVARDT Espana**.
+Desarrollado y mantenido por la division de ciberseguridad ofensiva de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py empresa.es -json
 Para escaneos corporativos continuos con interfaz grafica, acceda a la herramienta oficial:
 
 * **Escaneo de Archivos Expuestos**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Consultoria en Seguridad Ofensiva
 
-Para pruebas de penetracion y gestion de superficie de ataque en Espana, consulte a los especialistas de **TAVARDT Espana**.
+Para pruebas de penetracion y gestion de superficie de ataque en Espana, consulte a los especialistas de **TAVARDT**.
 
 ***
 
