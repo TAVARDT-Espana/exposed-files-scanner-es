@@ -1,5 +1,6 @@
 # Escáner de Archivos y Credenciales Expuestas
 
+[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Escaneo Archivos Expuestos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/es/escaneo-archivos-expuestos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -57,6 +58,11 @@ Para pruebas de penetracion y gestion de superficie de ataque en Espana, consult
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
 
 ***
 
