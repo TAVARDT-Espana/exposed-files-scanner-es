@@ -1,12 +1,10 @@
 # Escáner de Archivos y Credenciales Expuestas
 
-[![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Escaneo Archivos Expuestos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/es/escaneo-archivos-expuestos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Escáner de superficie de ataque para detección automatizada de archivos de entorno, copias de seguridad, repositorios git y credenciales expuestas.
-
-Desarrollado y mantenido por la division de ciberseguridad ofensiva de **TAVARDT**.
 
 ***
 
@@ -38,15 +36,6 @@ python scanner.py empresa.es -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para escaneos corporativos continuos con interfaz grafica, acceda a la herramienta oficial:
-
-* **Escaneo de Archivos Expuestos**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en Seguridad Ofensiva
 
 Para pruebas de penetracion y gestion de superficie de ataque en Espana, consulte a los especialistas de **TAVARDT**.
@@ -62,7 +51,7 @@ Para pruebas de penetracion y gestion de superficie de ataque en Espana, consult
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
